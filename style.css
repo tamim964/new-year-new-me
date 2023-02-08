@@ -121,7 +121,7 @@ header {
     background-image: linear-gradient(to right, rgba(0, 95, 172, 1), rgba(0, 95, 172, 0)), url('images/watch.png');
     background-size: cover;
     width: 70%;
-    margin: 70px auto;
+    margin: 80px auto 30px auto;
     padding: 40px;
     height: 200px;
 }
